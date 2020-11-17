@@ -16,3 +16,17 @@
 
  @import "bootstrap/scss/bootstrap";
  @import "font-awesome";
+
+ .title {
+   display: flex;
+   align-items: center;
+   color: #1F6F8B;
+   font-size: 20px;
+    h1 {
+      font-size: 20px;
+    }
+ }
+
+ .navbar {
+   border-bottom: solid lightgrey;
+ }
